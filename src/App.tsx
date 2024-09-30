@@ -1,5 +1,12 @@
+import MainLayout from "./layout/MainLayout";
+import "./index.css";
+
 function App() {
-  return <>home page</>;
+  return (
+    <>
+      <MainLayout />
+    </>
+  );
 }
 
 export default App;
