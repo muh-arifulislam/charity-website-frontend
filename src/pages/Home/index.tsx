@@ -3,6 +3,9 @@ import image from "../../assets/images/childrens-sitting.png";
 const Home = () => {
   return (
     <div className="">
+      <section>
+        <div className="bg-accent w-full h-screen"></div>
+      </section>
       <div className="grid grid-cols-1 sm:grid-cols-2">
         <div className="py-[74px] px-4 sm:px-20 relative bg-primary">
           <div className="">

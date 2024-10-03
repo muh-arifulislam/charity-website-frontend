@@ -22,6 +22,14 @@ export default {
         "overlay-accent":
           "linear-gradient(to bottom, rgba(46, 64, 73, 0.9), rgba(46, 64, 73, 0.9))",
       },
+      fontSize: {
+        h1: "40px",
+        h2: "35px",
+        h3: "30px",
+        h4: "25px",
+        h5: "22px",
+        h6: "20px",
+      },
     },
   },
   plugins: [],
